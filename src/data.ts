@@ -231,7 +231,7 @@ export const TOUR_PACKAGES: TourPackage[] = [
       'Konsumsi Makan Prasmanan 10 Kali Sesuai Standar Gizi',
       'Kunjungan Edukasi: Candi Borobudur, Museum Merapi, Keraton Jogja',
       'Workshop Kreatif: Belajar Membatik & Pembuatan Kerajinan Gerabah',
-      'Sertifikat Resmi Kelulusan Study Tour & Kaos Seragam Eksklusif'
+      'Sertifikat Resmi Kelulusan Study Tour & Kaos Seragam Eksklamatif'
     ],
     image: '/images/study_tour_jogja_1783322874373.jpg',
     rating: 4.9
