@@ -22,7 +22,7 @@ export default function About({ onLearnMoreClick }: AboutProps) {
             className="col-span-8 overflow-hidden rounded-3xl shadow-lg relative aspect-[3/4]"
           >
             <img
-              src="/images/swing_1782818270952.jpg"
+              src="https://res.cloudinary.com/di6ziqvtp/image/upload/v1783259686/52e43830-db53-4994-bcdc-5f89d5ab2d81.png"
               alt="Scenic swing overlooking the tropical jungle in Bali"
               className="w-full h-full object-cover hover:scale-105 transition-transform duration-700"
               referrerPolicy="no-referrer"
@@ -40,7 +40,7 @@ export default function About({ onLearnMoreClick }: AboutProps) {
               className="overflow-hidden rounded-2xl shadow-md relative aspect-square"
             >
               <img
-                src="/images/bali_friends_1782818331133.jpg"
+                src="https://res.cloudinary.com/di6ziqvtp/image/upload/v1783323538/52232f7d-759e-40de-a9ce-a8aa0fcde84d.png"
                 alt="Happy group of travelers posing in Bali"
                 className="w-full h-full object-cover hover:scale-105 transition-transform duration-700"
                 referrerPolicy="no-referrer"
@@ -56,7 +56,7 @@ export default function About({ onLearnMoreClick }: AboutProps) {
               className="overflow-hidden rounded-2xl shadow-md relative aspect-[4/5] flex-1"
             >
               <img
-                src="/images/atv_1782818283610.jpg"
+                src="https://res.cloudinary.com/di6ziqvtp/image/upload/v1783325638/f3a50332-0cc1-430b-93d3-e6dd79a34527.png"
                 alt="Tourists riding an ATV in Bali jungle track"
                 className="w-full h-full object-cover hover:scale-105 transition-transform duration-700"
                 referrerPolicy="no-referrer"

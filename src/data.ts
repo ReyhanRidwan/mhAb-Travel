@@ -116,7 +116,7 @@ export const TOUR_PACKAGES: TourPackage[] = [
       'Kunjungan: Kelingking Beach, Broken Beach, Angel Billabong',
       'Layanan Guide Foto Lokal Handal'
     ],
-    image: '/images/hero_bali_1782818190522.jpg',
+    image: 'https://res.cloudinary.com/di6ziqvtp/image/upload/v1783323538/52232f7d-759e-40de-a9ce-a8aa0fcde84d.png',
     rating: 4.8
   },
   {
