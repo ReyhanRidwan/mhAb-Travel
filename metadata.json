@@ -1,0 +1,8 @@
+{
+  "name": "mhAb Travel",
+  "description": "seluruh dunia",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
